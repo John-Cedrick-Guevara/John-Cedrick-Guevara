@@ -1,0 +1,54 @@
+<svg width="1800" height="420" viewBox="0 0 1800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <rect width="1800" height="420" fill="#161512"/>
+
+  <!-- outer box border with gap for title -->
+  <path d="M 40 60 H 260" stroke="#c17c5c" stroke-width="2"/>
+  <path d="M 560 60 H 1760" stroke="#c17c5c" stroke-width="2"/>
+  <path d="M 1760 60 V 400" stroke="#c17c5c" stroke-width="2"/>
+  <path d="M 40 60 V 400" stroke="#c17c5c" stroke-width="2"/>
+  <path d="M 40 400 H 1760" stroke="#c17c5c" stroke-width="2"/>
+
+  <text x="280" y="68" class="mono" font-size="26" fill="#c17c5c" font-weight="600">guevix.dev v1.0.0</text>
+
+  <!-- vertical divider between panels -->
+  <line x1="900" y1="60" x2="900" y2="400" stroke="#c17c5c" stroke-width="2"/>
+
+  <!-- LEFT PANEL -->
+  <text x="470" y="140" class="mono" font-size="30" fill="#f2ede8" font-weight="700" text-anchor="middle">Welcome back, John Cedrick!</text>
+
+  <!-- mascot: simple terminal/code icon -->
+  <g transform="translate(400,175)">
+    <rect x="0" y="0" width="140" height="90" rx="6" fill="none" stroke="#c17c5c" stroke-width="4"/>
+    <rect x="0" y="0" width="140" height="22" rx="6" fill="#c17c5c"/>
+    <circle cx="16" cy="11" r="4" fill="#161512"/>
+    <circle cx="32" cy="11" r="4" fill="#161512"/>
+    <circle cx="48" cy="11" r="4" fill="#161512"/>
+    <text x="14" y="60" class="mono" font-size="26" fill="#c17c5c" font-weight="700">&lt;/&gt;</text>
+    <rect x="55" y="90" width="30" height="14" fill="#8a8578"/>
+    <rect x="35" y="104" width="70" height="8" rx="2" fill="#8a8578"/>
+  </g>
+
+  <text x="470" y="322" class="mono" font-size="21" fill="#a39c8f" text-anchor="middle">Full-Stack Developer · BS Computer Science</text>
+  <text x="470" y="348" class="mono" font-size="21" fill="#a39c8f" text-anchor="middle">Next.js · React · TypeScript · Prisma</text>
+  <text x="470" y="378" class="mono" font-size="20" fill="#77726a" text-anchor="middle" font-style="italic">~/portfolio/john-cedrick-guevara</text>
+
+  <!-- RIGHT PANEL -->
+  <text x="930" y="100" class="mono" font-size="24" fill="#c17c5c" font-weight="700">Tech Stack</text>
+  <text x="930" y="135" class="mono" font-size="20" fill="#c9c4ba">Frontend: Next.js · React · TypeScript · Tailwind · shadcn/ui</text>
+  <text x="930" y="163" class="mono" font-size="20" fill="#c9c4ba">Backend: Node.js · Prisma + MySQL · MongoDB · Supabase</text>
+  <text x="930" y="191" class="mono" font-size="20" fill="#c9c4ba">Tools: GitHub · Postman · SWR · Axios</text>
+
+  <line x1="930" y1="215" x2="1740" y2="215" stroke="#3a372f" stroke-width="1"/>
+
+  <text x="930" y="250" class="mono" font-size="24" fill="#c17c5c" font-weight="700">Featured Projects</text>
+  <text x="930" y="285" class="mono" font-size="20" fill="#c9c4ba">Time-Filtered Inventory &amp; Sales Dashboard</text>
+  <text x="930" y="312" class="mono" font-size="20" fill="#c9c4ba">PropertyEase Management — Inventi Hackathon 2025</text>
+  <text x="930" y="339" class="mono" font-size="20" fill="#c9c4ba">AidLink — Web-Based Charity Platform</text>
+  <text x="930" y="380" class="mono" font-size="19" fill="#77726a" font-style="italic">scroll down for more</text>
+</svg>
