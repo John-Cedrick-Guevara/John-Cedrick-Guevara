@@ -1,72 +1,92 @@
-# Hi, I'm John Cedrick Guevara
+<div align="center">
 
-**BS Computer Science Student** • **Full-Stack Developer**  
+![John Cedrick Guevara](./header.svg)
 
-I’m a passionate full-stack developer who loves turning ideas into real, working systems.  
-I specialize in building **modern, scalable web applications** using tools like **Next.js, React, and Prisma**,  
-with a focus on **clean architecture, performance, and user experience**.  
+</div>
 
-Currently, I’m expanding my skills in **AI integration for web apps** — exploring how intelligent automation can enhance user workflows and product design.  
+```
+> tell me more about this dev
+```
 
----
+```
+⏺ I'll pull together a quick profile.
 
-## 🛠 Tech Stack
+⏺ Read(about.md)
+  ⎿  Passionate full-stack developer who loves turning ideas
+     into real, working systems. Specializes in modern, scalable
+     web apps with clean architecture, performance, and UX in mind.
+     Currently expanding into AI integration for web apps —
+     exploring how intelligent automation can enhance user
+     workflows and product design.
 
-**Frontend:**  
-Next.js (App Router) • React • JavaScript • TypeScript • Tailwind CSS • Bootstrap • shadcn/ui  
+⏺ Glob(projects/**)
+  ⎿  Found 4 projects
 
-**Backend:**  
-Node.js (Express) • Prisma + MySQL • MongoDB • Supabase  
+⏺ Read(projects/inventory-dashboard.md)
+  ⎿  Time-Filtered Inventory and Sales Dashboard
+     - Full admin control over staff, products, sales, categories
+     - Real-time inventory tracking — stock updates on purchase
+     - Pagination, search, and product filters
+     - Role-Based Access Control (RBAC) + responsive design
 
-**Tools:**  
-Prisma • MySQL Workbench • GitHub • Postman • SWR • Axios  
+⏺ Read(projects/property-ease.md)
+  ⎿  PropertyEase Management — Inventi Hackathon 2025
+     - Google Calendar integration for scheduling
+     - Automated assignment of maintenance tickets
+     - Full admin control over maintenance operations
+     - RBAC + responsive design
 
----
+⏺ Read(projects/aidlink.md)
+  ⎿  AidLink: Web-Based Charity Platform
+     - Admin dashboard for users, proposals, sectors, submissions
+     - Community project submissions and donations
+     - Payment gateway integration
+     - RBAC + responsive design
 
-## Projects & Contributions
+⏺ Read(projects/olcom.md)
+  ⎿  OLCOM: OLOPSC Community Platform
+     - Contributed as Full-Stack Developer
+     - Admin control over users, announcements, events, lost & found
+     - Real-time chat + lost-and-found functionality
+     - RBAC + responsive design
 
-### Time-Filtered Inventory and Sales Dashboard  
-A full-featured dashboard for managing inventory and sales efficiently.  
-- Full admin control over staff, products, sales, and categories  
-- Real-time inventory tracking — stock updates automatically after each purchase  
-- Includes pagination, search, and product filters  
-- Role-Based Access Control (RBAC) and responsive design  
+⏺ Done — profile compiled.
+```
 
----
+```
+> git log --oneline --graph --decorate | head -1
+```
 
-### PropertyEase Management — *Inventi Hackathon 2025*  
-A property management system designed for efficiency and automation.  
-- Integrated with **Google Calendar** for scheduling important events  
-- Automated assignment of maintenance tickets  
-- Full admin control over maintenance operations  
-- Includes RBAC and responsive design  
+```
+* "Clean code is not just written — it's designed, tested, and refined with purpose."
+```
 
----
 
-### AidLink: Web-Based Charity Platform  
-A full-stack platform that enables community-driven fundraising for local projects.  
-- Admin dashboard for managing users, project proposals, sectors, and submissions  
-- Users can submit, propose community project ideas, and donate to meaningful projects  
-- Includes payment gateway integration  
-- RBAC and responsive design  
+```
+> whereis john
+```
+<div align="center">
 
----
+📫 **Email:** [guevarajohncedrick0610@gmail.com](mailto:guevarajohncedrick0610@gmail.com)
+🌐 **Portfolio:** [guevix.vercel.app](https://guevix.vercel.app)
+💼 **LinkedIn:** [john-cedrick-guevara](https://www.linkedin.com/in/john-cedrick-guevara-66381027b/)
 
-### OLCOM: OLOPSC Community Platform  
-A collaborative school community web app connecting students and admins.  
-- Contributed as a **Full-Stack Developer**  
-- Admin control over users, announcements, events, and lost-and-found items  
-- Features **real-time chat** and lost-and-found functionality  
-- RBAC and responsive design  
+</div>
 
----
+<div align="center">
 
-## Let's Connect
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-🌐 **Portfolio:** [guevix.vercel.app](https://guevix.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/john-cedrick-guevara-66381027b](https://www.linkedin.com/in/john-cedrick-guevara-66381027b/)  
-✉️ **Email:** [guevarajohncedrick0610@gmail.com](mailto:guevarajohncedrick0610@gmail.com)  
+</div>
 
----
-
-> 💡 *“Clean code is not just written — it’s designed, tested, and refined with purpose.”*
+```
+$ ▌
+```
