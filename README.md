@@ -68,7 +68,7 @@
 <div align="center">
 
 📫 **Email:** [guevarajohncedrick0610@gmail.com](mailto:guevarajohncedrick0610@gmail.com)
-🌐 **Portfolio:** [guevix.vercel.app](https://guevix.vercel.app)
+🌐 **Portfolio:** [guevix.vercel.app](https://guevix.com)
 💼 **LinkedIn:** [john-cedrick-guevara](https://www.linkedin.com/in/john-cedrick-guevara-66381027b/)
 
 </div>
